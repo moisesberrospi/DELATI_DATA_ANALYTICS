@@ -1,16 +1,23 @@
 [
+	{"text": "53", "label": "1"},
 	{"text": "computer", "label": "1"},
-	{"text": "telecommunications", "label":"1"},
+	{"text": "Post ", "label":"1"},
+	{"text": " telecommunications", "label":"1"},
 	{"text": "programming" ,"label":"1"},
 	{"text": "information", "label":"1"},
 	{"text": "management" ,"label":"1"},
-	{"text": "computers" ,"label":"1"},
-	{"text": "Computer", "label": "1"},
-	{"text": "Telecommunications", "label":"1"},
+	{"text": "Computer ", "label": "1"},
+	{"text": "72", "label": "1"},
+	{"text": "consultancy", "label":"1"},
 	{"text": "Programming" ,"label":"1"},
 	{"text": "Information", "label":"1"},
 	{"text": "Management" ,"label":"1"},
 	{"text": "Computers" ,"label":"1"},
+	{"text": "Architectural" ,"label":"1"},
+	{"text": "engineering" ,"label":"1"},
+	{"text": "testing" ,"label":"1"},
+	{"text": "analysis" ,"label":"1"},
+	
 	
 	{"text": "hunting" ,"label":"0"},
 	{"text": "transport" ,"label":"0"},
@@ -41,8 +48,8 @@
 	{"text": "motorcycles" ,"label":"0"},
 	{"text": "pipelines" ,"label":"0"},
 	{"text": "Air" ,"label":"0"},
-	{"text": "Postal" ,"label":"0"},
 	{"text": "Accommodation" ,"label":"0"},
+	{"text": "courier" ,"label":"0"},
 	{"text": "Food" ,"label":"0"},
 	{"text": "Publishing" ,"label":"0"},
 	{"text": "television" ,"label":"0"},
@@ -58,6 +65,9 @@
 	{"text": "archives" ,"label":"0"},
 	{"text": "museums" ,"label":"0"},
 	{"text": "Sports" ,"label":"0"},
-	{"text": "Gambling" ,"label":"0"}
+	{"text": "Gambling" ,"label":"0"},
+	{"text": "Remediation" ,"label":"0"},
+	{"text": "waste" ,"label":"0"}
+
 
 ]
